@@ -9,6 +9,6 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(features="C:\\Durga\\eclipse-workspace\\cucumberproj\\src\\test"
  ,glue= {"stepdefs1"})
 
-public class DemologinTest {
+public class testrunner {
 
 }
